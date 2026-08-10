@@ -1,0 +1,37 @@
+{
+  "chart": {
+    "title": "Daily per capita protein supply",
+    "subtitle": "Average daily per capita protein supply, measured in grams of total protein per day.",
+    "note": "Data measures the availability delivered to households but does not necessarily indicate the quantity of protein actually consumed (food may be wasted at the consumer level).",
+    "citation": "Food and Agriculture Organization of the United Nations (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/daily-per-capita-protein-supply?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "United States",
+      "United Kingdom",
+      "Peru",
+      "India",
+      "Cameroon"
+    ]
+  },
+  "columns": {
+    "Total | 00002901 || Food available for consumption | 0674pc || grams of protein per day per capita": {
+      "titleShort": "Total daily supply of protein per person",
+      "titleLong": "Total daily supply of protein per person",
+      "descriptionShort": "Quantity that is available for consumption at the end of the supply chain. It does not account for consumer waste, so the quantity that is actually consumed may be lower. This is the total of all agricultural produce, both crops and livestock.",
+      "descriptionProcessing": "* Per-capita values were obtained by dividing total figures by Our World in Data's population.\n* For regions defined by FAOSTAT, per-capita values were calculated using FAOSTAT's original population data, if available.\n* This data was originally given per-capita by FAOSTAT. We converted this data into total figures by multiplying by FAOSTAT's population.\n\nThe latest FAOSTAT release (published on 2025-10-28) is missing data for Benin, Burundi, Central African Republic, Chad, Dominica, Japan, Mali, Somalia, South Sudan, Sudan, and Togo, due to an ongoing review. To avoid data gaps, we sourced data for those countries from a previous FAOSTAT release.",
+      "shortUnit": "g/day",
+      "unit": "grams of protein per day per capita",
+      "timespan": "1961-2023",
+      "type": "Numeric",
+      "owidVariableId": 1203764,
+      "shortName": "total__00002901__food_available_for_consumption__0674pc__grams_of_protein_per_day_per_capita",
+      "lastUpdated": "2026-02-25",
+      "nextUpdate": "2027-02-25",
+      "citationShort": "Food and Agriculture Organization of the United Nations (2025) – processed by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations (2025) – processed by Our World in Data. “Total daily supply of protein per person” [dataset]. Food and Agriculture Organization of the United Nations, “Food Balances: Food Balances (-2013, old methodology and population)”; Food and Agriculture Organization of the United Nations, “Food Balances: Food Balances (2010-)” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1203764.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-08-08",
+  "activeFilters": {}
+}

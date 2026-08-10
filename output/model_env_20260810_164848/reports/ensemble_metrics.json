@@ -1,0 +1,28 @@
+{
+  "male": {
+    "r2_score": 0.9599078269058385,
+    "rmse": 0.9939416255163849,
+    "mae": 0.6812283906261242
+  },
+  "female": {
+    "r2_score": 0.9578839457167755,
+    "rmse": 0.8751524982349466,
+    "mae": 0.6027345331417685
+  },
+  "average_r2": 0.9588958863113071,
+  "mode": "sex_separate_environment_only",
+  "features": [
+    "gdp_per_capita_ppp",
+    "gini_index",
+    "pm25_ug_m3",
+    "sanitation_pct",
+    "healthcare_pct_gdp",
+    "physician_density",
+    "breastfeeding_exclusive_pct",
+    "urbanization_pct",
+    "caloric_intake_kcal",
+    "protein_g_per_day",
+    "animal_protein_pct"
+  ],
+  "n_features": 11
+}

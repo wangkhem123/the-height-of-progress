@@ -1,0 +1,18 @@
+{
+  "type": "bagged_disjoint_fold",
+  "n_members": 5,
+  "features": [
+    "gdp_per_capita_ppp",
+    "gini_index",
+    "pm25_ug_m3",
+    "sanitation_pct",
+    "healthcare_pct_gdp",
+    "physician_density",
+    "breastfeeding_exclusive_pct",
+    "urbanization_pct",
+    "caloric_intake_kcal",
+    "protein_g_per_day",
+    "animal_protein_pct"
+  ],
+  "created": "2026-08-10T16:48:52.858854"
+}

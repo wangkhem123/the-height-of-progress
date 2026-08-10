@@ -1,0 +1,12 @@
+feature,mean_abs_shap,rank
+physician_density,1.3030506,1
+breastfeeding_exclusive_pct,0.6334585,2
+protein_g_per_day,0.59179866,3
+healthcare_pct_gdp,0.4740169,4
+pm25_ug_m3,0.46978083,5
+gini_index,0.39110526,6
+urbanization_pct,0.3471259,7
+animal_protein_pct,0.34312144,8
+gdp_per_capita_ppp,0.26885718,9
+caloric_intake_kcal,0.18365307,10
+sanitation_pct,0.17098714,11

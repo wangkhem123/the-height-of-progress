@@ -1,0 +1,12 @@
+rank,feature,importance_pct_mean,importance_pct_std,stability
+1,physician_density,41.128,2.686,0.935
+2,protein_g_per_day,12.484,2.656,0.787
+3,breastfeeding_exclusive_pct,8.951,1.455,0.837
+4,healthcare_pct_gdp,7.64,1.278,0.833
+5,gini_index,5.901,0.687,0.884
+6,urbanization_pct,4.482,1.208,0.73
+7,gdp_per_capita_ppp,4.33,0.722,0.833
+8,pm25_ug_m3,4.291,1.006,0.766
+9,caloric_intake_kcal,3.815,0.412,0.892
+10,sanitation_pct,3.653,0.417,0.886
+11,animal_protein_pct,3.325,0.522,0.843
